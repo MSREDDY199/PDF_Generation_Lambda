@@ -1,0 +1,9 @@
+{
+    "name": "@src/product",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "puppeteer-core": "^22.6.0"
+    }
+  }
+  
